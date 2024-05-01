@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+h1, p {
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  margin: 20px;
+  border: white solid 5px;
+}
+
+#sky {
+  font-size: 1.55rem;
+}
+
+div {
+  text-align: center;
+}
